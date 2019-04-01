@@ -1,0 +1,11 @@
+ms\client\model\Client.class
+ms\client\repository\ClientRepository.class
+ms\client\config\ClientConfig.class
+ms\client\service\IClientService.class
+ms\client\dto\ClientDetailDto.class
+ms\client\rest\ClientRest.class
+ms\client\dao\ClientDao.class
+ms\client\dto\KpiClientDto.class
+ms\client\service\ClientService.class
+ms\client\ClientApplication.class
+ms\client\exception\InternalException.class
